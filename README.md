@@ -1,1 +1,3 @@
 # Movie-Script-Generator-RNN
+The Movie Script Generator uses advanced RNN technology to create original movie scripts, generating coherent narratives with realistic dialogue, action scenes, and character development. Tested on the "Interstellar" script, the tool is trained on diverse movie scripts to understand various narrative structures, character arcs, and dialogue styles. It allows users to customize the genre and style, tailoring the scripts to match the desired tone, and integrates user-defined character traits and plot points into cohesive storylines.
+It uses Natural Language Processing (NLP) to deal with human language
